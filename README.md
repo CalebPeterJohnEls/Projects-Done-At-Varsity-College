@@ -3,5 +3,6 @@ These are projects I have done in my college courses at Varsity College
   >Web Development - HTML, CSS, Java Script
   >Mobile Application Development - Kotlin
   >Mobile App Scripting - Java Script
+  >Work Intergared Learning
 -Bachelor in Computer and Information Sciences in Application Development - Year 1
   >Programming - Java
